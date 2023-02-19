@@ -1,0 +1,13 @@
+
+Vendor=WCH
+Link=WCH-Link
+Toolchain=
+Series=
+Description=
+Mcu Type=CH58x
+Address=0x00000000
+Target Path=obj\MagiClick_back.hex
+Erase All=true
+Program=true
+Verify=true
+Reset=true

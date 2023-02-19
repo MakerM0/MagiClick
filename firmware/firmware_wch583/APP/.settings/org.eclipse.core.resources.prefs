@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//LIB/CH58xBLE_LIB.h=UTF-8
+encoding//soc/soc.h=UTF-8
+encoding//subsys/HAL/KEY.h=UTF-8
+encoding//subsys/LCD_show/UGUI/ugui.c=UTF-8
+encoding//subsys/LCD_show/UGUI/ugui.h=UTF-8
+encoding//subsys/LCD_show/manager/manager.c=UTF-8
+encoding//subsys/LCD_show/manager/manager.h=UTF-8
+encoding//subsys/LCD_show/pages/clock/clock.c=UTF-8
+encoding//subsys/LCD_show/pages/counter/counter.c=UTF-8
+encoding//subsys/LCD_show/pages/lucky/lucky.c=UTF-8
+encoding//subsys/LCD_show/pages/media/media.c=UTF-8
+encoding//subsys/LCD_show/pages/pages.c=UTF-8
+encoding//subsys/LCD_show/pages/stopwatch/stopwatch.c=UTF-8
