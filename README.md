@@ -4,14 +4,17 @@ The project uses [WCH's CH582F](https://www.wch.cn/products/CH583.html), a RISC-
 
 The button can implement a variety of functions.
 For example:
-\- Shutter via BLE
-\- Stopwatch
-\- Clock
-\- Pomodoro
-\- Music playback controller via BLE
-\- counter
-\- Random numbers
-\-
+
+- Shutter via BLE
+- Stopwatch
+- Clock
+- Pomodoro
+- Music playback controller via BLE
+- counter
+- Random numbers
+- 
+
+
 
 It includes an expansion interface to support communication with I2C devices, such as temperature and humidity monitoring, light monitoring, etc.
 You can achieve more depending on your needs.
