@@ -2,6 +2,8 @@
 
 # [MagiClick](https://hackaday.io/project/188183-magiclick-a-mechanical-button-with-screen)
 
+[GitHub - MakerM0/MagiClick: A button](https://github.com/MakerM0/MagiClick)
+
 The project uses [WCH's CH582F](https://www.wch.cn/products/CH583.html), a RISC-V chip, which supports BLE. The SDK comes with a multitasking system TMOS, which is very convenient for writing code.
 
 The button can implement a variety of functions.
