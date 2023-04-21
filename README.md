@@ -51,6 +51,14 @@ Use the apk under the software folder to synchronize time
 
 
 
+## Note
+
+The current low-power strategy is to shut down the power directly. The time is not saved after the shutdown action. Please note.
+
+In the future, standby mode will be adopted to maintain low power consumption and time functions.
+
+
+
 ## Mechanical
 
 <img src="documents/images/3d.png" alt="20230217_151114" style="zoom: 100%;" />
