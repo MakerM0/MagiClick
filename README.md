@@ -51,6 +51,18 @@ Use the apk under the software folder to synchronize time
 
 
 
+## Firmware
+
+IDE: [MounRiver Stuido](http://www.mounriver.com/download)
+
+### How to download the firmware
+
+TOOL: WCHISPStudio
+
+While holding down the right button, press the left button to turn on the power, and you can enter the download mode
+
+
+
 ## Note
 
 The current low-power strategy is to shut down the power directly. The time is not saved after the shutdown action. Please note.
