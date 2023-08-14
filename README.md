@@ -1,10 +1,20 @@
 <img src="documents/images/1.jpg" alt="20230217_151114" style="zoom: 50%;" />
 
+<p align="center">
+    <br>
+    <img src="https://avatars.githubusercontent.com/u/117961102" width="150"/>
+    <br>
+</p>
+<p align="center">   
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/MakerM0/MagiClick">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/MakerM0/MagiClick">  
+</p>
+
 # [MagiClick](https://hackaday.io/project/188183-magiclick-a-mechanical-button-with-screen)
 
 [GitHub - MakerM0/MagiClick: A button](https://github.com/MakerM0/MagiClick)
 
-The project uses [WCH's CH582F](https://www.wch.cn/products/CH583.html), a RISC-V chip, which supports BLE. The SDK comes with a multitasking system TMOS, which is very convenient for writing code.
+The project uses [WCH&#39;s CH582F](https://www.wch.cn/products/CH583.html), a RISC-V chip, which supports BLE. The SDK comes with a multitasking system TMOS, which is very convenient for writing code.
 
 The button can implement a variety of functions.
 For example:
@@ -21,8 +31,6 @@ For example:
 It includes an expansion interface to support communication with I2C devices, such as temperature and humidity monitoring, light monitoring, etc.
 You can achieve more depending on your needs.
 
-
-
 ## Guide
 
 Power on: Press and hold the left button
@@ -37,8 +45,6 @@ Enter the function: The general situation is to press and hold the middle button
 
 Use the apk under the software folder to synchronize time
 
-
-
 ## Firmware
 
 IDE: [MounRiver Stuido](http://www.mounriver.com/download)
@@ -49,15 +55,11 @@ TOOL: WCHISPStudio
 
 While holding down the right button, press the left button to turn on the power, and you can enter the download mode
 
-
-
 ## Note
 
 The current low-power strategy is to shut down the power directly. The time is not saved after the shutdown action. Please note.
 
 In the future, standby mode will be adopted to maintain low power consumption and time functions.
-
-
 
 ## Mechanical
 
@@ -81,8 +83,6 @@ I'll update the file that uses the screw holes when I'm free, hopefully not for 
 
 ![20230217_151114](documents/images/20230217_151114.jpg)
 
-
-
 ![20230217_151134](documents/images/20230217_151134.jpg)
 
 ![20230217_151212](documents/images/20230217_151212.jpg)
@@ -97,17 +97,6 @@ I'll update the file that uses the screw holes when I'm free, hopefully not for 
 
 ![20230215_182558](documents/images/20230215_182558.jpg)
 
-## License 
+## License
 
 (hardware/mechanical)https://creativecommons.org/licenses/by-nc-nd/4.0
-
-
-
-
-
-
-
-
-
-
-
